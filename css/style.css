@@ -1,0 +1,49 @@
+/* All Common CSS Start */
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+}
+
+ul,
+ol,
+li {
+  list-style: none;
+}
+
+a,
+a:hover {
+  text-decoration: none;
+  display: inline-block;
+}
+
+/* All Common CSS End */
+
+/* Header Part Start*/
+.navbar {
+  background: #fff;
+  padding: 40px 0;
+}
+
+.nav-link {
+  color: #000;
+  font-size: 14px;
+  font-weight: 400;
+  margin: 0 10px;
+
+}
+
+.hireBtn a {
+  padding: 10px 20px;
+  background: #5E3BEE;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 400;
+  border-radius: 50px;
+}
+
+/* Header Part End */
+/* Header Part Start*/
+/* Header Part End */
+/* Header Part Start*/
+/* Header Part End */
