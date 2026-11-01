@@ -297,6 +297,169 @@ p {
 }
 
 /* Portfolio Part End */
+
+/* Testimony Part Start */
+#testimony {
+  padding-top: 145px;
+  padding-bottom: 135px;
+}
+
+.testimonyTop h3 {
+  color: #5E3BEE;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.testimonyTop h1 {
+  color: #000;
+  font-size: 44px;
+  font-weight: 600;
+  margin-bottom: 15px;
+  margin-top: 15px;
+}
+
+.testimonyTop p {
+  font-size: 16px;
+  font-weight: 500;
+  color: rgba(0, 0, 0, 0.50);
+}
+
+.testimonyReview {
+  margin-top: 55px;
+  padding: 80px 40px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  width: 48%;
+  gap: 20px;
+}
+
+.pText {
+  padding: 30px 0;
+}
+
+.testimonyCard {
+  gap: 40px;
+
+}
+
+.user {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.userFlex {
+  display: flex;
+  justify-content: space-between;
+}
+
+.userFlex img {
+  width: 45px;
+}
+
+/* Testimony Part End */
+
+/* CTA Part Start */
+#cta {
+  padding-top: 110px;
+  padding-bottom: 120px;
+}
+
+.bgCta {
+  background: url(../images/section.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 110px;
+  padding-bottom: 120px;
+  border-radius: 24px;
+}
+
+.ctaTop h1 {
+  line-height: 72px;
+  font-size: 50px;
+  font-weight: 600;
+  padding-bottom: 20px;
+}
+
+.ctaTop a {
+  color: #333333;
+  font-size: 14px;
+  font-weight: 400;
+  padding: 25px 40px;
+  border-radius: 50px;
+  border: 1px solid #333333;
+  margin-right: 20px;
+  transition: linear all 0.4s;
+}
+
+.ctaTop a:hover {
+  background: #EE3B9A;
+  border: 1px solid #EE3B9A;
+  color: #fff;
+}
+
+/* CTA Part End */
+
+/* Footer Part Start */
+#footer {}
+
+.footerBg {
+  background: #333333;
+  width: 1320px;
+  height: 480px;
+  border-radius: 24px 24px 0 0;
+}
+
+.footerLeft {
+  padding-top: 110px;
+}
+
+.footertab {
+  display: flex;
+  gap: 45px;
+}
+
+.footerLogo {
+  gap: 30px;
+}
+
+.footerRight {
+  padding-top: 110px;
+}
+
+.footerLeft p {
+  padding-top: 30px;
+  line-height: 32px;
+  letter-spacing: 0.5px;
+  font-size: 16px;
+  color: #fff;
+  padding-right: 110px;
+}
+
+.footerLeft a {
+  padding-top: 100px;
+  color: #fff;
+  font-size: 14px;
+}
+
+.footerRight p {
+  font-size: 16px;
+  color: #fff;
+  padding-bottom: 40px;
+}
+
+.foterLastText {
+  font-size: 16px;
+  color: #fff;
+  padding-top: 100px;
+  padding-right: 270px;
+  line-height: 24px;
+}
+
+
+
+/* Footer Part End */
+
 /* Experience Part Start*/
 
 /* Experience Part End */
